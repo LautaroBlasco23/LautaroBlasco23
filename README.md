@@ -16,13 +16,13 @@ My contact email is: lautaroblasco98@gmail.com
 
 
 **Basic Knowledge:**
-*Jest (testing)
-*Python
-*Golang
-*Rust
-*Java
+* Jest (testing)
+* Python
+* Golang
+* Rust
+* Java
 
 
-### Preferences
-OS: Ubuntu
-Text editor: VS Code, vim.
+## Preferences
+* **OS:** Ubuntu
+* **Text editor:** VS Code, vim.
