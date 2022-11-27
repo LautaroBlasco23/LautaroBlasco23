@@ -6,13 +6,13 @@ My contact email is: lautaroblasco98@gmail.com
 
 ## Skills
 **Good knowledge:**
-*Typescript
-*Javascript
-*PostgreSQL
-*MongoDB
-*React
-*Nodejs
-*git
+* Typescript
+* Javascript
+* PostgreSQL
+* MongoDB
+* React
+* Nodejs
+* git
 
 
 **Basic Knowledge:**
