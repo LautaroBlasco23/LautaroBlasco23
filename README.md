@@ -18,22 +18,28 @@ Currently at [Software on the Road](https://softwareontheroad.com).
 
 Here's a list of some projects I've been building for fun — some just to understand how certain technologies work under the hood, others to practice integrations (payment systems, AI) or to explore different architecture styles.
 
-**impostor** — word-guessing game to play with friends | Go, Fiber, Redis, PostgreSQL, WebSockets  
+**event-driven-maths** — distributed system that processes math operations using an event-driven architecture with persistent storage | Go, NATS, PostgreSQL, Docker  
+[repo](https://github.com/LautaroBlasco23/event-driven-maths)
+
+**websocket-chat** — real-time chat with multiple rooms, message history, and cross-platform compatibility between web and terminal clients | Go, WebSockets, SQLite, React  
+[repo](https://github.com/LautaroBlasco23/WebSocket-Chat-Application)
+
+**impostor** — multiplayer word-guessing game server with real-time WebSocket gameplay | Go, Fiber, Redis, PostgreSQL, React  
 [backend](https://github.com/LautaroBlasco23/impostor-backend) · [frontend](https://github.com/LautaroBlasco23/impostor-frontend)
 
-**document-assistant** — local AI assistant to learn from documents using RAG, flashcards, and spaced-repetition exams | Python, FastAPI, PostgreSQL, React, TypeScript  
+**document-assistant** — knowledge tree platform for structured learning from documents; import PDFs and EPUBs, then generate summaries, flashcards, and exam questions | Python, FastAPI, PostgreSQL, React, TypeScript, Groq/Ollama  
 [repo](https://github.com/LautaroBlasco23/document-assistant)
 
-**api-gateway** — lightweight API gateway with dynamic service registration, routing, rate limiting, caching, and injection protection | Go  
+**api-gateway** — lightweight modular API gateway where backends register at runtime; handles proxying, rate limiting, caching, CORS, injection filtering, and request validation — all configurable per service via feature flags | Go  
 [repo](https://github.com/LautaroBlasco23/api-gateway)
 
-**image-storage** — image storage service with streaming uploads via gRPC, HTTP serving, and automatic WebP thumbnail generation | Go, gRPC, SQLite  
+**image-storage** — image storage service: upload via gRPC, serve over HTTP, with automatic WebP thumbnail generation | Go, gRPC  
 [repo](https://github.com/LautaroBlasco23/image-storage)
 
-**life-tracker** — personal life tracking app for habits, finances, notes, and time per category | Go, Gin, PostgreSQL, MongoDB  
+**life-tracker** — personal tracking for activities, finances, notes, and time; clean architecture with JWT authentication and observability support | Go, Next.js, TypeScript  
 [backend](https://github.com/LautaroBlasco23/life-tracker-backend) · [frontend](https://github.com/LautaroBlasco23/life-tracker-frontend)
 
-**lauti-market** — personal marketplace with DDD-layered architecture and CI/CD pipeline | Go, PostgreSQL  
+**lauti-market** — marketplace with a DDD-layered architecture (domain → application → infrastructure) and JWT auth | Go, PostgreSQL, Next.js  
 [backend](https://github.com/LautaroBlasco23/lauti-market-backend) · [frontend](https://github.com/LautaroBlasco23/lauti-market-frontend)
 
 ---
