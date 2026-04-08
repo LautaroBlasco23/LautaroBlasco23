@@ -1,8 +1,11 @@
 # Lautaro Blasco
 
 Backend developer based in Argentina, focused on building simple, maintainable systems with clean architecture principles.
+
 I prioritize clarity and ease of reasoning over unnecessary complexity.
+
 Currently exploring AI agents and AI-assisted development.
+
 
 Currently at [Software on the Road](https://softwareontheroad.com).
 
