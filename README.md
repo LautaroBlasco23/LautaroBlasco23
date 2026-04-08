@@ -42,4 +42,4 @@ Here's a list of some projects I've been building for fun — some just to under
 
 ## Contact
 
-[GitHub](https://github.com/LautaroBlasco23) · [LinkedIn](https://linkedin.com/in/lautaroblasco1998) · lautaroblasco98@gmail.com
+[X](https://x.com/lautaroblasco23) · [LinkedIn](https://linkedin.com/in/lautaroblasco1998) · lautaroblasco98@gmail.com
