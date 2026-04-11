@@ -8,9 +8,17 @@ Currently at [Software on the Road](https://softwareontheroad.com).
 
 ## Tech Stack
 
-**Languages** — Go · TypeScript · Rust · Python · Bash  
-**Databases** — PostgreSQL · MySQL · MongoDB · Redis · Qdrant  
-**Cloud & DevOps** — AWS · Docker · Kubernetes · Terraform · CI/CD  
+**Focus**
+- Go, TypeScript, Rust  
+- AI-assisted development with Claude Code & Opencode ([dotfiles](#))
+
+**Data**
+- PostgreSQL (primary), MongoDB  
+- Experience with MySQL, Redis, Qdrant  
+
+**Infrastructure**
+- AWS (production experience)  
+- Docker, Kubernetes, Terraform  
 
 ---
 
