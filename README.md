@@ -10,7 +10,7 @@ Currently at [Software on the Road](https://softwareontheroad.com).
 
 **Focus**
 - Go, TypeScript, Rust  
-- AI-assisted development with Claude Code & Opencode ([dotfiles](#))
+- AI-assisted development with Claude Code & Opencode ([dotfiles](https://github.com/LautaroBlasco23/dotfiles))
 
 **Data**
 - PostgreSQL (primary), MongoDB  
