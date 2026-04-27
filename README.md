@@ -18,8 +18,7 @@ Currently at [Software on the Road](https://softwareontheroad.com).
 - Experience with MySQL, Redis, Qdrant  
 
 **Infrastructure**
-- AWS (production experience)  
-- Docker, Kubernetes, Terraform  
+- AWS, Docker, Kubernetes, Terraform  
 
 ---
 
